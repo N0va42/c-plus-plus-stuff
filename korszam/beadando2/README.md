@@ -9,4 +9,4 @@ A két input megadását követően a main függvényben szerplő műveleteket e
 Összesen egy összeadást, egy kivonást, egy szorzást, egy-egy deriválást és egy-egy integrálást fog elvégezni.
 Természetesen a kódot ki lehetne bővíteni kettőnél több polinomon való műveletvégzésre, itt csak demonstrációs okok miatt maradtam kettőnél.
 
-A kódhoz segítségként a github copilotot használtam.
+A kód megírásához segítségként a github copilotot használtam.
