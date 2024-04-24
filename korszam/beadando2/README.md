@@ -5,8 +5,8 @@ A kód futtatásakor kétszer fog egy inputot kérni a terminálban. Ekkor álta
 
 Egy adott input megfelelője: 1, 2, 3 = 1 + 2x + 3x^2 és 0, 0, 5, 6 = 5x^2 + 6x^3
 
-A két input megadását követően a main függvényben szerplő műveleteket elvégzi majd kiprinteli a kód a terminálba. 
-
+A két input megadását követően a main függvényben szerplő műveleteket elvégzi majd kiprinteli a kód a terminálba.
 Összesen egy összeadást, egy kivonást, egy szorzást, egy-egy deriválást és egy-egy integrálást fog elvégezni.
-
 Természetesen a kódot ki lehetne bővíteni kettőnél több polinomon való műveletvégzésre, itt csak demonstrációs okok miatt maradtam kettőnél.
+
+A kódhoz segítségként a github copilotot használtam.
